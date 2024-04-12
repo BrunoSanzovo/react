@@ -1,4 +1,4 @@
-npm install react-router-domimport CardTrilha from "./components/CardTrilha"
+import CardTrilha from "./components/CardTrilha"
 import "./App.css"
 
 function App() {
